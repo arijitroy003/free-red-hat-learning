@@ -4,7 +4,7 @@ A collection of free of charge learning resources from Red Hat
 
 
 
-General Learning Ressouces
+General Learning Resources
 --------
   * Red Hat Learning Community<br>
   https://learn.redhat.com/
@@ -250,14 +250,14 @@ Automation / Ansible
  * Ansible Collections on Github<br>
  https://github.com/ansible-collections
  
- * Ansible Community informations<br>
+ * Ansible Community information<br>
  https://docs.ansible.com/community.html
  
 </p></details>
 
 
 
-Openstack
+OpenStack
 ---------
 <details><summary> Introduction
  </summary><p>
@@ -457,7 +457,7 @@ https://www.youtube.com/watch?v=KCnrZ8WwEKE&t=0s&index=15&list=PLEGSLwUsxfEgT4XE
 OpenShift for Operations
 https://www.youtube.com/watch?v=nBXALsqs1RA&t=0s&index=94&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
 
-Next-generation tools for container techology
+Next-generation tools for container technology
 https://www.youtube.com/watch?v=msdaf3lBOn0&t=0s&index=23&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
 
 Best practices for OpenShift HA deployment field experience
@@ -493,7 +493,7 @@ https://www.youtube.com/watch?v=UZSKlG0wkGc&t=0s&index=89&list=PLEGSLwUsxfEgT4XE
 OpenShift service mesh on multicloud environments
 https://www.youtube.com/watch?v=3Etglg2lrGo&t=0s&index=101&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
 
-AppAgile from Deutsche Telekom: Managed cloud sercices on OpenShift
+AppAgile from Deutsche Telekom: Managed cloud services on OpenShift
 https://www.youtube.com/watch?v=lMSJ6cmHDmI&t=0s&index=20&list=PLEGSLwUsxfEgT4XEohmRe_JB6MBnmLfBh
 
 TechRepublic Article: 5 key takeaways from Red Hat Summit 2018
